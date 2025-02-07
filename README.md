@@ -12,8 +12,7 @@ more safely and responsibly.
 
 ![seq_diagram](https://github.com/user-attachments/assets/5f01cff2-2b65-4b19-9832-32784aab32e2)
 
-For this project, I chose to implement a concurrent TCP (Transmission Control Proto-
-col) server that creates a thread for each connected client. I chose this protocol over others because
+For this project, I chose to implement a concurrent TCP (Transmission Control Protocol) server that creates a thread for each connected client. I chose this protocol over others because
 TCP ensures accurate information transmission by establishing a virtual connection between the
 sender and receiver, which is important for my project, since drivers rely on precise and reliable data.
 
