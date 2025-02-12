@@ -16,7 +16,7 @@ For this project, I chose to implement a concurrent TCP (Transmission Control Pr
 TCP ensures accurate information transmission by establishing a virtual connection between the
 sender and receiver, which is important for my project, since drivers rely on precise and reliable data.
 
-In this application, all data is stored in a MySQL database.
+In this application, all data is stored in a SQLite database.
 
 ![db_diagram](https://github.com/user-attachments/assets/deb46224-41da-4c73-918d-f7dc5f1c6fc3)
 
